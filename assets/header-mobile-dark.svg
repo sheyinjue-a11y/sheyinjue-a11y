@@ -1,22 +1,16 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="600" height="400" viewBox="0 0 600 400" role="img" aria-labelledby="title desc">
-  <title id="title">Sheyinjue — Curiosity, with context.</title>
-  <desc id="desc">Notebook lettering and a path connecting small notes into remembered context.</desc>
-  <defs><pattern id="dots" width="20" height="20" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1" fill="#A0B2DF" opacity=".15"/></pattern></defs>
-  <rect width="600" height="400" rx="16" fill="#18283D"/>
-  <rect x="310" y="170" width="270" height="210" fill="url(#dots)"/>
-  <path d="M30 34h22" stroke="#A0B2DF" stroke-width="3"/>
-  <text x="66" y="39" font-family="Consolas,monospace" font-size="13" letter-spacing="2" fill="#A0B2DF">SHEYINJUE / FIELD NOTES</text>
-  <text x="30" y="117" font-family="Trebuchet MS,Arial,sans-serif" font-size="59" font-weight="700" letter-spacing="-2" fill="#EDF2FA">Curiosity,</text>
-  <text x="30" y="186" font-family="Trebuchet MS,Arial,sans-serif" font-size="59" font-weight="700" letter-spacing="-2" fill="#EDF2FA">with context.</text>
-  <text x="33" y="231" font-family="Segoe UI,Arial,sans-serif" font-size="18" fill="#B6C7DE">Agents, memory,</text>
-  <text x="33" y="257" font-family="Segoe UI,Arial,sans-serif" font-size="18" fill="#B6C7DE">and things worth building.</text>
-  <path d="M346 246C381 226 379 320 436 297S497 279 531 244" fill="none" stroke="#A0B2DF" stroke-width="3" stroke-linecap="round"/>
-  <path d="M378 351C405 342 406 311 436 297" fill="none" stroke="#8ABCB1" stroke-width="3" stroke-linecap="round"/>
-  <g transform="translate(315 221) rotate(-9 32 24)"><rect width="69" height="48" rx="8" fill="#263A52" stroke="#425670"/><path d="M13 16h31M13 26h43M13 36h34" stroke="#A0B2DF" stroke-width="2" stroke-linecap="round"/></g>
-  <g transform="translate(409 267)"><rect x="7" y="-7" width="61" height="63" rx="10" fill="#304761" transform="rotate(10 36 24)"/><rect width="64" height="62" rx="10" fill="#263A52" stroke="#A0B2DF"/><path d="M15 18h34M15 29h25M15 40h34" stroke="#A0B2DF" stroke-width="2" stroke-linecap="round"/><circle cx="48" cy="50" r="4" fill="#8ABCB1"/></g>
-  <g transform="translate(513 225)"><circle cx="20" cy="20" r="20" fill="#304761"/><path d="m12 20 6 6 11-13" fill="none" stroke="#A0B2DF" stroke-width="2.5" stroke-linecap="round"/></g>
-  <rect x="350" y="334" width="43" height="32" rx="7" fill="#284A49" stroke="#689E90"/>
-  <path d="M361 345h22M361 355h15" stroke="#689E90" stroke-width="2" stroke-linecap="round"/>
-  <circle cx="488" cy="307" r="5" fill="#E8BBA5"/>
-  <text x="33" y="363" font-family="Consolas,monospace" font-size="12" letter-spacing="1.2" fill="#A0B2DF">LEARN. BUILD. REPEAT.</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="450" viewBox="0 0 720 450" role="img" aria-labelledby="title desc">
+ <title id="title">孙又圣 · 把好奇心写成代码</title>
+ <desc id="desc">上海交通大学软件工程本科生。关注智能体长期记忆、实用工具与创意探索。</desc>
+ <rect width="720" height="450" rx="14" fill="#18283D"/>
+ <g font-family="Segoe UI,Microsoft YaHei,PingFang SC,sans-serif">
+ <text x="38" y="58" font-size="19" fill="#B6C7DE">孙又圣 / 软件工程 / 上海交通大学</text>
+ <g font-family="Trebuchet MS,STSong,SimSun,serif" font-size="51" font-weight="600" fill="#EDF2FA">
+ <text x="38" y="163">把好奇心写成代码，</text>
+ <text x="38" y="240">把实验认真做完。</text>
+ </g>
+ <text x="40" y="313" font-size="21" fill="#B6C7DE">智能体长期记忆 · 实用工具 · 创意探索</text>
+ <path d="M40 367h30" stroke="#A0B2DF" stroke-width="2"/>
+ <text x="84" y="373" font-size="17" fill="#B6C7DE">认真研究，也给玩心留一点位置。</text>
+ 
+ </g>
 </svg>
