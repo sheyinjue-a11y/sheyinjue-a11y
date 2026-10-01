@@ -1,48 +1,21 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-labelledby="title desc">
-  <title id="title">Sheyinjue — Curiosity, with context.</title>
-  <desc id="desc">A calm blue notebook cover with an illustrated trail joining conversation fragments into remembered context.</desc>
-  <defs>
-    <pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1" fill="#677CAB" opacity=".15"/></pattern>
-  </defs>
-  <rect width="1200" height="420" rx="18" fill="#EFF3F8"/>
-  <rect x="680" y="24" width="494" height="372" rx="16" fill="url(#dots)"/>
-  <path d="M40 36h30" stroke="#677CAB" stroke-width="3"/>
-  <text x="82" y="42" font-family="Consolas,monospace" font-size="14" letter-spacing="3" fill="#677CAB">SHEYINJUE / FIELD NOTES</text>
-  <text x="52" y="172" font-family="Trebuchet MS,Arial,sans-serif" font-size="74" font-weight="700" letter-spacing="-3" fill="#25364D">Curiosity,</text>
-  <text x="52" y="255" font-family="Trebuchet MS,Arial,sans-serif" font-size="74" font-weight="700" letter-spacing="-3" fill="#25364D">with context.</text>
-  <text x="56" y="311" font-family="Segoe UI,Arial,sans-serif" font-size="20" fill="#52657B">Agents, memory, and things worth building.</text>
-  <text x="56" y="373" font-family="Consolas,monospace" font-size="13" letter-spacing="2" fill="#677CAB">LEARN A LITTLE. BUILD SOMETHING. REPEAT.</text>
-  <path d="M739 111C664 181 710 314 830 338S1077 345 1122 247C1166 150 1075 69 978 76" fill="none" stroke="#C9D5E5" stroke-width="1.5" stroke-dasharray="4 7"/>
-  <path d="M731 130C790 115 796 247 889 223S996 178 1064 122" fill="none" stroke="#677CAB" stroke-width="3" stroke-linecap="round"/>
-  <path d="M774 294C823 285 828 225 889 223" fill="none" stroke="#8ABCB1" stroke-width="3" stroke-linecap="round"/>
-  <path d="M889 223C941 237 981 291 1054 292" fill="none" stroke="#E8BBA5" stroke-width="3" stroke-linecap="round"/>
-  <g transform="translate(690 94) rotate(-9 46 31)">
-    <rect width="106" height="70" rx="10" fill="#F8FAFC" stroke="#C9D5E5" stroke-width="1.5"/>
-    <path d="M18 22h44M18 34h69M18 46h55" stroke="#677CAB" opacity=".65" stroke-width="3" stroke-linecap="round"/>
-    <circle cx="88" cy="18" r="5" fill="#E8BBA5"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="400" viewBox="0 0 1200 400" role="img" aria-labelledby="title desc">
+ <title id="title">孙又圣 · 把好奇心写成代码</title>
+ <desc id="desc">上海交通大学软件工程本科生。关注智能体长期记忆、实用工具与创意探索。</desc>
+ <rect width="1200" height="400" rx="14" fill="#EFF3F8"/>
+ <g font-family="Segoe UI,Microsoft YaHei,PingFang SC,sans-serif">
+ <text x="52" y="54" font-size="17" fill="#52657B">孙又圣 / 软件工程 / 上海交通大学</text>
+ <g font-family="Trebuchet MS,STSong,SimSun,serif" font-size="58" font-weight="600" fill="#25364D">
+ <text x="52" y="157">把好奇心写成代码，</text>
+ <text x="52" y="241">把实验认真做完。</text>
+ </g>
+ <text x="56" y="300" font-size="20" fill="#52657B">智能体长期记忆 · 实用工具 · 创意探索</text>
+ <path d="M56 349h30" stroke="#677CAB" stroke-width="2"/>
+ <text x="100" y="355" font-size="15" fill="#52657B">认真研究，也给玩心留一点位置。</text>
+ <g transform="translate(840 70)">
+  <rect width="302" height="258" rx="9" fill="#F8FAFC" stroke="#C9D5E5"/>
+  <text x="24" y="35" font-size="15" fill="#52657B">研究笔记 / 长期记忆</text>
+  <path d="M0 53h302M37 93v118" stroke="#C9D5E5"/>
+  <circle cx="37" cy="87" r="13" fill="#EFF3F8" stroke="#C9D5E5"/><text x="37" y="92" text-anchor="middle" font-size="13" fill="#25364D">1</text><text x="65" y="94" font-size="18" fill="#25364D">经历与对话</text><circle cx="37" cy="148" r="13" fill="#EFF3F8" stroke="#C9D5E5"/><text x="37" y="153" text-anchor="middle" font-size="13" fill="#25364D">2</text><text x="65" y="155" font-size="18" fill="#25364D">组织与检索</text><circle cx="37" cy="209" r="13" fill="#EFF3F8" stroke="#C9D5E5"/><text x="37" y="214" text-anchor="middle" font-size="13" fill="#25364D">3</text><text x="65" y="216" font-size="18" fill="#25364D">回忆与回答</text>
   </g>
-  <g transform="translate(730 273) rotate(8 43 26)">
-    <rect width="94" height="63" rx="10" fill="#E2EFEA" stroke="#A3C9BD" stroke-width="1.5"/>
-    <path d="M18 22h50M18 36h34" stroke="#689E90" stroke-width="3" stroke-linecap="round"/>
-  </g>
-  <g transform="translate(842 173)">
-    <rect x="11" y="-10" width="100" height="100" rx="19" fill="#D4DEEF" stroke="#B7C6DF" stroke-width="1.5" transform="rotate(10 61 40)"/>
-    <rect width="106" height="100" rx="17" fill="#F8FAFC" stroke="#677CAB" stroke-width="1.5"/>
-    <path d="M27 28h53M27 43h42M27 58h53" stroke="#677CAB" stroke-width="3" stroke-linecap="round"/>
-    <circle cx="78" cy="78" r="7" fill="#8ABCB1"/>
-  </g>
-  <g transform="translate(1034 89)">
-    <circle cx="31" cy="31" r="31" fill="#D4DEEF"/>
-    <circle cx="31" cy="31" r="20" fill="#EFF3F8" stroke="#677CAB" stroke-width="2"/>
-    <path d="m23 31 6 6 12-13" fill="none" stroke="#677CAB" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
-  </g>
-  <g transform="translate(1024 263) rotate(-6 42 25)">
-    <rect width="92" height="61" rx="10" fill="#F5E4DB" stroke="#E8BBA5" stroke-width="1.5"/>
-    <path d="M17 22h53M17 36h38" stroke="#BC8E77" stroke-width="3" stroke-linecap="round"/>
-  </g>
-  <text x="690" y="81" font-family="Consolas,monospace" font-size="12" letter-spacing="1" fill="#677CAB">conversation</text>
-  <text x="862" y="310" font-family="Consolas,monospace" font-size="12" letter-spacing="1" fill="#677CAB">context</text>
-  <text x="1044" y="74" font-family="Consolas,monospace" font-size="12" letter-spacing="1" fill="#677CAB">recall</text>
-  <circle cx="996" cy="187" r="5" fill="#8ABCB1"/>
-  <circle cx="826" cy="178" r="4" fill="#E8BBA5"/>
+ </g>
 </svg>
